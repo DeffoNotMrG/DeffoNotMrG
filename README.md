@@ -1,9 +1,70 @@
-<h1 align="center">Hi 👋, I'm Ghurmy</h1>
-<h3 align="center">A passionate new developer from The Netherlands</h3>
+<div align="center">
+  
+# Ghurmy
 
-- 🌱 I’m currently learning **Rust**
+### Senior Creative | Technical Project Manager | Developer
 
-- 💬 Ask me about **Video, Cinema 4d, Redshift, Octane**
+[🎨 Creative Portfolio](https://ghurmy.com) • [💻 Development Work](https://ghurmy.xyz)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+</div>
+
+## About Me
+
+> "Bridging the gap between creative vision and technical execution"
+
+Senior Creative turned developer, currently serving as Technical Project Manager for Grid8 at Disxt. Based in The Netherlands, I bring a unique perspective that combines visual artistry with technical innovation.
+
+## Tech Distribution
+
+```text
+JavaScript    ████████████████████░░   35.0%
+Astro         ███████████████░░░░░░   30.0%
+Golang        ██████████░░░░░░░░░░░   20.0%
+Rust          ████░░░░░░░░░░░░░░░░░    8.0%
+Python        ███░░░░░░░░░░░░░░░░░░    5.0%
+Tauri         ██░░░░░░░░░░░░░░░░░░░    2.0%
+```
+
+## Current Focus
+
+```python
+class Skills:
+    def currently_learning(self):
+        return ["Rust 🦀", "Python FastAPI", "Pydantic"]
+        
+    def tech_stack(self):
+        return {
+            "frameworks": ["Astro", "Next.js", "HTMX"],
+            "languages": ["JavaScript", "Golang", "Python", "Rust"],
+            "tools": ["Docker", "Git", "Tauri"]
+        }
+```
+
+## Creative Arsenal 🎨
+
+- **3D & Motion**: Cinema 4D, Redshift, Octane, Blender
+- **Design**: Adobe Suite (Illustrator, XD), Figma
+- **Development**: 
+  - Frontend: HTML/CSS, JavaScript, Tailwind CSS
+  - Backend: Golang, Python (FastAPI, Flask), Rust
+  - Tools: Docker, MySQL, SQLite
+  - Automation: Zapier, Grafana
+
+## Projects & Contributions
+
+I'm passionate about creating tools and experiences that merge technical functionality with creative excellence. Currently exploring:
+
+- 🚀 Building robust backends with Go and FastAPI
+- 🦀 Learning systems programming with Rust
+- ⚡ Creating desktop applications with Tauri
+- 🔄 Automating workflows with Python
+
+## Let's Connect
+
+Whether you're interested in creative technology, development, or the intersection of both, I'm always open to interesting conversations and collaborations.
+
+---
+
+<div align="center">
+  <i>✨ Creating at the intersection of technology and design ✨</i>
+</div>
