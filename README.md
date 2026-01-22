@@ -25,6 +25,7 @@ Cinema 4D, After Effects, DaVinci Resolve, RED Cinema systems. The kind of produ
 
 [Ghurmy.com](https://ghurmy.com) — creative work  
 [Ghurmy.xyz](https://ghurmy.xyz) — development
+
 [Ghur.my](https://ghur.my) - main
 
 ---
